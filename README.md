@@ -51,7 +51,7 @@ Install dependencies:
 
 ```bash
 pip install pillow
-
+```
 ▶️ How to Run
 Clone the repository or download the files.
 
@@ -61,7 +61,7 @@ Run the app:
 
 ```bash
 python paint_app.py
-
+```
 Start drawing on the canvas using various tools and options.
 
 💡 Usage Notes
