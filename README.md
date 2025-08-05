@@ -13,7 +13,7 @@ Created for educational purposes to showcase good software architecture and clea
 - 📏 Adjustable brush size (with slider & quick buttons)
 - ⬅️ Undo / ➡️ Redo drawing history
 - 📁 Save drawing as image (.png)
-- 🌈 Background color options
+- 🎨 Background color options
 - 💾 Canvas reset (New Drawing)
 - 🧰 Clean UI design with emoji icons
 - 🧠 Fully modular and extensible architecture
