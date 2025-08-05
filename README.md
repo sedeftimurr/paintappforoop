@@ -74,9 +74,10 @@ Use Ctrl + S to save your drawing.
 Use Ctrl + N to clear the canvas.
 
 
-## Contact Me
+## 📬 Contact Me
 
-Developer: **Sedef Timur**  
-📧 Email: sedeftimurrr@gmail.com  
-💼 GitHub: [github.com/sedeftimurr](https://github.com/sedeftimurr)  
-🔗 LinkedIn: [linkedin.com/in/sedeftimur](https://linkedin.com/in/sedeftimur)
+**Sedef Timur**  
+[![Email](https://img.shields.io/badge/Email-sedeftimurrr@gmail.com-red?style=flat&logo=gmail)](mailto:sedeftimurrr@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-sedeftimurr-181717?style=flat&logo=github)](https://github.com/sedeftimurr)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sedeftimur-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sedeftimur)
+
